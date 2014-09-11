@@ -1,0 +1,43 @@
+{
+  "author": "mycoin <nqliujiangtao@gmail.com> (http://www.moni-j.com)",
+  "name": "js-pretty",
+  "description": "pretty your javascript code.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "dist": {
+    "shasum": "6908b981dc773f1fa2fa21aab47d92b799ba323b",
+    "tarball": "http://registry.npmjs.org/js-pretty/-/js-pretty-0.0.2.tgz"
+  },
+  "_from": "js-pretty@",
+  "_npmVersion": "1.2.15",
+  "_npmUser": {
+    "name": "mycoin",
+    "email": "nqliujiangtao@gmail.com"
+  },
+  "maintainers": [
+    "mycoin <nqliujiangtao@gmail.com>"
+  ],
+  "directories": {
+    "example": "examples"
+  },
+  "_shasum": "6908b981dc773f1fa2fa21aab47d92b799ba323b",
+  "_resolved": "http://registry.npmjs.org/js-pretty/-/js-pretty-0.0.2.tgz",
+  "scripts": {
+    "test": "node examples/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mycoin/js-pretty"
+  },
+  "keywords": [
+    "js-pretty",
+    "javascript",
+    "formmater"
+  ],
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/mycoin/js-pretty/issues"
+  },
+  "homepage": "https://github.com/mycoin/js-pretty"
+}
